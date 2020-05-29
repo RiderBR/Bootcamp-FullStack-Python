@@ -1,4 +1,28 @@
 body {
-    background: #3F3F3F;
-    
+    background: rgba(33, 37, 252, 0.9);
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+header {
+    margin-top: 30px;
+}
+
+h1 {
+    color: whitesmoke;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h2 {
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+p {
+    color: white;
+    font-size: 18px;
+}
+
+img {
+    margin: 20px;
 }
