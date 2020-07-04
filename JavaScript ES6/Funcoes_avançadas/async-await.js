@@ -1,5 +1,5 @@
 //ES7
-//Async
+//Async - Assincrono
 const simpleFunc = async function() {
     throw new Error('Oh no!');
     return 12345;
@@ -11,7 +11,7 @@ simpleFunc().then(data => {
     console.log(err);
 });
 
-//Async com await
+//Async com await (await = esperar)
 const asyncTimer = () => new Promise((resolve, reject) => {
     setTimeout(() => {
         resolve(123456);
