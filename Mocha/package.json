@@ -11,5 +11,8 @@
     "license": "ISC",
     "devDependencies": {
         "mocha": "^6.2.3"
+    },
+    "dependencies": {
+        "lodash": "^4.17.19"
     }
 }
